@@ -17,4 +17,4 @@ Ich habe an mehreren Aufträgen vom Modul 114 gemacht, aber noch keine Moodle Te
 - [ ] Aufträge vom Modul 259 bearbeiten
 - [ ] 295 Dokumentation weiter schreiben
 
-Heute habe ich an der Dokumentation für meine LB gearbeitet. Ich habe die Dokumentation geschrieben, weil ich sie am Mittwoch nicht während dem LB gemacht habe. Ich habe bis jetzt nur das aufgeschrieben was ich auch gemacht habe. Ich habe auch noch die Präsentationen fürs neue Modul 259 durch geschaut.
+Heute habe ich an der Dokumentation für meine LB gearbeitet. Ich habe die Dokumentation geschrieben, weil ich sie am Mittwoch nicht während dem LB gemacht habe. Ich habe bis jetzt nur das aufgeschrieben was ich auch gemacht habe. Ich habe auch noch die Präsentationen fürs neue Modul 259 durch geschaut. Ich habe auch noch die Aufträge von gestern weitergemacht.
