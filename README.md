@@ -18,3 +18,10 @@ Ich habe an mehreren Aufträgen vom Modul 114 gemacht, aber noch keine Moodle Te
 - [ ] 295 Dokumentation weiter schreiben
 
 Heute habe ich an der Dokumentation für meine LB gearbeitet. Ich habe die Dokumentation geschrieben, weil ich sie am Mittwoch nicht während dem LB gemacht habe. Ich habe bis jetzt nur das aufgeschrieben was ich auch gemacht habe. Ich habe auch noch die Präsentationen fürs neue Modul 259 durch geschaut. Ich habe auch noch die Aufträge von gestern weitergemacht.
+
+
+## 07.03.2025
+- [ ] Aufträge vom Modul 259 anfangen
+- [ ] Moodle Tests von Modul 114 machen
+
+Ich habe heute die Aufträge vom Modul 259 gemacht, weil ich letzt Woche und gestern im DSL fast nicht am Modul gearbeite habe. Ich habe dafür heute ein paar Aufträge gemacht. Danach habe ich auch den einzigen Moodle Test vom Modul 114 gemacht. Ich habe zuletzt auch noch an einem Deutsch Auftrag von der Kanti gearbeitet.
