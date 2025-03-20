@@ -25,3 +25,10 @@ Heute habe ich an der Dokumentation für meine LB gearbeitet. Ich habe die Dokum
 - [ ] Moodle Tests von Modul 114 machen
 
 Ich habe heute die Aufträge vom Modul 259 gemacht, weil ich letzt Woche und gestern im DSL fast nicht am Modul gearbeite habe. Ich habe dafür heute ein paar Aufträge gemacht. Danach habe ich auch den einzigen Moodle Test vom Modul 114 gemacht. Ich habe zuletzt auch noch an einem Deutsch Auftrag von der Kanti gearbeitet.
+
+
+## 14.03.2025
+- [ ] Aufträge vom Modul 259 weiter machen
+- [ ] Abgaben vom Modul 115 fertig machen
+
+Ich habe heute an den Aufträgen vom Modul 259 weiter gearbeitet und habe auch den Teilauftrag von der LB fertig gemacht. Ich habe mir einen Datensatz ausgesucht, der verschiedene Eigenschaften in California enthält. Z.B. verschiedene Merkmale wie Einkommen, Bevölkerungszahlen und geografische Lage. Danach habe ich mir auch Python runtergeladen 
