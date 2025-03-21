@@ -29,6 +29,14 @@ Ich habe heute die Aufträge vom Modul 259 gemacht, weil ich letzt Woche und ges
 
 ## 14.03.2025
 - [ ] Aufträge vom Modul 259 weiter machen
-- [ ] Abgaben vom Modul 115 fertig machen
+- [ ] Abgaben vom Modul 114 fertig machen
 
 Ich habe heute an den Aufträgen vom Modul 259 weiter gearbeitet und habe auch den Teilauftrag von der LB fertig gemacht. Ich habe mir einen Datensatz ausgesucht, der verschiedene Eigenschaften in California enthält. Z.B. verschiedene Merkmale wie Einkommen, Bevölkerungszahlen und geografische Lage. Danach habe ich mir auch Python runtergeladen 
+
+
+## 21.03.2025
+- [ ] Aufträge vom Modul 259 weiter machen
+- [ ] Auftröge vom Modul 426 weiter machen
+- [ ] Deutsch Aufsatz fertig schreiben
+
+Ich habe heute an paar Aufträgen vom Modul 259 weiter gearbeitet. Ich habe einen ähnlichen Auftrag wie letzte Woche erledigt. Ich habe hier Python besser kennengelernt. Ich habe auch die Präsentationen vom Modul 426 angeschaut. Ich habe zuletzt auch noch meinen Deutsch Aufsatz fertig geschrieben. 
