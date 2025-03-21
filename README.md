@@ -36,7 +36,7 @@ Ich habe heute an den Aufträgen vom Modul 259 weiter gearbeitet und habe auch d
 
 ## 21.03.2025
 - [ ] Aufträge vom Modul 259 weiter machen
-- [ ] Auftröge vom Modul 426 weiter machen
+- [ ] Aufträge vom Modul 426 weiter machen
 - [ ] Deutsch Aufsatz fertig schreiben
 
 Ich habe heute an paar Aufträgen vom Modul 259 weiter gearbeitet. Ich habe einen ähnlichen Auftrag wie letzte Woche erledigt. Ich habe hier Python besser kennengelernt. Ich habe auch die Präsentationen vom Modul 426 angeschaut. Ich habe zuletzt auch noch meinen Deutsch Aufsatz fertig geschrieben. 
