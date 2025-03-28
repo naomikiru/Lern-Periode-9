@@ -40,3 +40,15 @@ Ich habe heute an den Aufträgen vom Modul 259 weiter gearbeitet und habe auch d
 - [ ] Deutsch Aufsatz fertig schreiben
 
 Ich habe heute an paar Aufträgen vom Modul 259 weiter gearbeitet. Ich habe einen ähnlichen Auftrag wie letzte Woche erledigt. Ich habe hier Python besser kennengelernt. Ich habe auch die Präsentationen vom Modul 426 angeschaut. Ich habe zuletzt auch noch meinen Deutsch Aufsatz fertig geschrieben. 
+
+
+
+##28.03.2025
+- [ ] Aufträge vom Modul 259 weiter machen
+- [ ] Teilaufträge vom Modul 259 weitermachen
+
+Ich habe heute zuerst ein paar Aufträge vom Modul 259 gemacht. Ich habe da Jupyter kennengelernt und wie man damit umgeht. Dieser Auftrag habe ich zuerst gemacht, damit ich den Teilauftrag vom LB lösen konnte, weil ich in dem Teil Jupyter benutzen musste. Zusätzlich habe ich auch noch Deutsch angeschaut, weil ich am Nachmittag einen Aufsatz schreiben muss. 
+
+## 04.04.2025
+- [ ] Aufträge vom Modul 259 fertig machen
+- [ ] Teilaufträge fertig machen
