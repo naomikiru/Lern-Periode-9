@@ -43,12 +43,15 @@ Ich habe heute an paar Aufträgen vom Modul 259 weiter gearbeitet. Ich habe eine
 
 
 
-##28.03.2025
+## 28.03.2025
 - [ ] Aufträge vom Modul 259 weiter machen
 - [ ] Teilaufträge vom Modul 259 weitermachen
 
 Ich habe heute zuerst ein paar Aufträge vom Modul 259 gemacht. Ich habe da Jupyter kennengelernt und wie man damit umgeht. Dieser Auftrag habe ich zuerst gemacht, damit ich den Teilauftrag vom LB lösen konnte, weil ich in dem Teil Jupyter benutzen musste. Zusätzlich habe ich auch noch Deutsch angeschaut, weil ich am Nachmittag einen Aufsatz schreiben muss. 
 
+
 ## 04.04.2025
 - [ ] Aufträge vom Modul 259 fertig machen
 - [ ] Teilaufträge fertig machen
+
+Heute habe ich an weitere Aufträge vom Modul 259 gearbeitet. Ich habe auch noch am LB weitergemacht. Ich habe an den Teilaufträgen weitergearbeitet, aber wurde nicht komplett fertig, weil ich teilweise nicht zufrieden mit den Ergebnissen bin. Ich habe auch noch ein wenig an meiner Deutsch-Aufsatz Korrektur gearbeitet und fertig gemacht. 
